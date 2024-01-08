@@ -1,1 +1,1 @@
-FROM insoxin/imaotai:latest
+FROM insoxin/imaotai
