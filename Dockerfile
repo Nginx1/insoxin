@@ -1,1 +1,1 @@
-docker pull insoxin/imaotai:latest
+FROM insoxin/imaotai:latest
